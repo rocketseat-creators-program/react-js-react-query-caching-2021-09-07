@@ -5,12 +5,14 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview",
-    "server:json": "json-server --watch ./server/db.json --port 3333"
+    "server:json": "json-server --watch ./server/db.json --port 3333 --delay 2000"
   },
   "dependencies": {
+    "axios": "^0.21.4",
     "json-server": "^0.16.3",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "react-query": "^3.22.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",

@@ -1,13 +1,13 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Formulários no ReactJS com Formik & Yup
+# Caching no front-end com React Query para turbinar nossas aplicações
 
-Criar formulários no React não é uma tarefa tão difícil assim, mas manter formulários complexos e performáticos em aplicações que podem escalar para o infinito e além é um trabalho árduo principalmente pela limitação que existe nas estratégias atuais.
+Com a tecnologia evoluindo, somos chamados a cada vez mais desenvolver aplicações performáticas, que aproveitem bem os recursos escassos de conectividades de alguns usuários.
 
-Nesse vídeo vamos utilizar o Unform, uma biblioteca criada pela Rocketseat para facilitar a manipulação de formulários complexos com relacionamentos mantendo a performance independente do número de campos.
+Neste vídeo, vamos usar a biblioteca React query para cachear nossas requisições e tornar nosso app muito mais otimizado.
 
 ## Expert
 
-| [<img src="https://avatars2.githubusercontent.com/u/2254731?s=460&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="75px;"/>](https://github.com/diego3g) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                         [Diego Fernandes](https://github.com/diego3g)                                                          |
+| [<img src="https://avatars.githubusercontent.com/u/29175815?s=400&u=0fee7695511e1dfabdf5eaacd405853d4e69745c&v=4" width="75px;"/>](https://github.com/joaovbibiano) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                           [João Bibiano](https://github.com/joaovbibiano)                                                           |
