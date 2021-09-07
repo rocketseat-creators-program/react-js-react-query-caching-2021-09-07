@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Awesome Steel Soap",
+      "price": "140.00",
+      "description": "Et iure amet numquam hic blanditiis quos molestiae deserunt doloremque.",
+      "image": "https://fakeimg.pl/350x200/?text=Awesome Steel Soap"
+    },
+    {
+      "id": 1,
+      "name": "Incredible Wooden Car",
+      "price": "181.00",
+      "description": "Quaerat quidem quod quibusdam totam velit.",
+      "image": "https://fakeimg.pl/350x200/?text=Incredible Wooden Car"
+    },
+    {
+      "id": 2,
+      "name": "Intelligent Steel Hat",
+      "price": "615.00",
+      "description": "Distinctio non a vel nisi voluptatem.",
+      "image": "https://fakeimg.pl/350x200/?text=Intelligent Steel Hat"
+    },
+    {
+      "id": 3,
+      "name": "Intelligent Cotton Shirt",
+      "price": "33.00",
+      "description": "Quam eius ut.",
+      "image": "https://fakeimg.pl/350x200/?text=Intelligent Cotton Shirt"
+    },
+    {
+      "id": 4,
+      "name": "Handmade Wooden Bike",
+      "price": "265.00",
+      "description": "Laudantium unde distinctio quo est voluptatem in.",
+      "image": "https://fakeimg.pl/350x200/?text=Handmade Wooden Bike"
+    },
+    {
+      "id": 5,
+      "name": "Ergonomic Granite Sausages",
+      "price": "571.00",
+      "description": "Eaque est libero quibusdam.",
+      "image": "https://fakeimg.pl/350x200/?text=Ergonomic Granite Sausages"
+    },
+    {
+      "id": 6,
+      "name": "Rustic Plastic Chair",
+      "price": "950.00",
+      "description": "In at consequatur architecto.",
+      "image": "https://fakeimg.pl/350x200/?text=Rustic Plastic Chair"
+    },
+    {
+      "id": 7,
+      "name": "Incredible Fresh Tuna",
+      "price": "27.00",
+      "description": "Et harum soluta.",
+      "image": "https://fakeimg.pl/350x200/?text=Incredible Fresh Tuna"
+    },
+    {
+      "id": 8,
+      "name": "Ergonomic Soft Bike",
+      "price": "819.00",
+      "description": "Earum et et nemo.",
+      "image": "https://fakeimg.pl/350x200/?text=Ergonomic Soft Bike"
+    },
+    {
+      "id": 9,
+      "name": "Rustic Wooden Shirt",
+      "price": "801.00",
+      "description": "Unde sit omnis ad rerum omnis ab.",
+      "image": "https://fakeimg.pl/350x200/?text=Rustic Wooden Shirt"
+    },
+    {
+      "id": 10,
+      "name": "Handcrafted Soft Shirt",
+      "price": "368.00",
+      "description": "Velit qui necessitatibus.",
+      "image": "https://fakeimg.pl/350x200/?text=Handcrafted Soft Shirt"
+    },
+    {
+      "id": 11,
+      "name": "Small Frozen Car",
+      "price": "285.00",
+      "description": "Et suscipit commodi dolores.",
+      "image": "https://fakeimg.pl/350x200/?text=Small Frozen Car"
+    },
+    {
+      "id": 12,
+      "name": "Ergonomic Fresh Soap",
+      "price": "608.00",
+      "description": "Ut qui et quod vel ducimus non molestias.",
+      "image": "https://fakeimg.pl/350x200/?text=Ergonomic Fresh Soap"
+    },
+    {
+      "id": 13,
+      "name": "Practical Rubber Chair",
+      "price": "781.00",
+      "description": "Mollitia sequi eum qui.",
+      "image": "https://fakeimg.pl/350x200/?text=Practical Rubber Chair"
+    },
+    {
+      "id": 14,
+      "name": "Intelligent Fresh Towels",
+      "price": "309.00",
+      "description": "Assumenda nihil vel animi.",
+      "image": "https://fakeimg.pl/350x200/?text=Intelligent Fresh Towels"
+    },
+    {
+      "id": 15,
+      "name": "Rustic Soft Cheese",
+      "price": "82.00",
+      "description": "Hic quo commodi ullam aperiam.",
+      "image": "https://fakeimg.pl/350x200/?text=Rustic Soft Cheese"
+    },
+    {
+      "id": 16,
+      "name": "Unbranded Fresh Salad",
+      "price": "619.00",
+      "description": "Nostrum itaque nulla ea cupiditate rerum culpa.",
+      "image": "https://fakeimg.pl/350x200/?text=Unbranded Fresh Salad"
+    },
+    {
+      "id": 17,
+      "name": "Refined Cotton Shirt",
+      "price": "718.00",
+      "description": "Dignissimos odio dignissimos.",
+      "image": "https://fakeimg.pl/350x200/?text=Refined Cotton Shirt"
+    },
+    {
+      "id": 18,
+      "name": "Generic Concrete Pants",
+      "price": "453.00",
+      "description": "Porro aut consequatur aspernatur qui dolorem voluptas quae libero sed.",
+      "image": "https://fakeimg.pl/350x200/?text=Generic Concrete Pants"
+    },
+    {
+      "id": 19,
+      "name": "Ergonomic Rubber Tuna",
+      "price": "535.00",
+      "description": "Earum iure sunt quibusdam commodi sapiente.",
+      "image": "https://fakeimg.pl/350x200/?text=Ergonomic Rubber Tuna"
+    }
+  ]
+}
